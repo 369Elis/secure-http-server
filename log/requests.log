@@ -1,0 +1,90 @@
+[2025-06-25 10:46:13] \u26a0\ufe0f ALERT from 127.0.0.1: CRLF injection attempt
+[2025-06-25 10:46:47] \u26a0\ufe0f ALERT from 127.0.0.1: CRLF injection attempt
+[2025-06-25 11:10:13] \u26a0\ufe0f ALERT from 127.0.0.1: CRLF injection attempt
+[2025-06-25 11:11:58] Request from 127.0.0.1:
+GET /echo/hello HTTP/1.1
+Host: localhost:4221
+User-Agent: curl/8.9.1
+Accept: */*
+Accept-Encoding: identity
+
+
+[2025-06-25 11:12:29] Request from 127.0.0.1:
+GET /echo/test HTTP/1.1
+Host: localhost:4221
+User-Agent: curl/8.9.1
+Accept: */*
+
+
+[2025-06-25 11:12:29] Request from 127.0.0.1:
+GET /echo/test HTTP/1.1
+Host: localhost:4221
+User-Agent: curl/8.9.1
+Accept: */*
+
+
+[2025-06-25 11:12:30] Request from 127.0.0.1:
+GET /echo/test HTTP/1.1
+Host: localhost:4221
+User-Agent: curl/8.9.1
+Accept: */*
+
+
+[2025-06-25 11:12:30] Request from 127.0.0.1:
+GET /echo/test HTTP/1.1
+Host: localhost:4221
+User-Agent: curl/8.9.1
+Accept: */*
+
+
+[2025-06-25 11:12:30] Request from 127.0.0.1:
+GET /echo/test HTTP/1.1
+Host: localhost:4221
+User-Agent: curl/8.9.1
+Accept: */*
+
+
+[2025-06-25 11:12:30] Request from 127.0.0.1:
+GET /echo/test HTTP/1.1
+Host: localhost:4221
+User-Agent: curl/8.9.1
+Accept: */*
+
+
+[2025-06-25 11:12:30] Request from 127.0.0.1:
+GET /echo/test HTTP/1.1
+Host: localhost:4221
+User-Agent: curl/8.9.1
+Accept: */*
+
+
+[2025-06-25 11:12:31] Request from 127.0.0.1:
+GET /echo/test HTTP/1.1
+Host: localhost:4221
+User-Agent: curl/8.9.1
+Accept: */*
+
+
+[2025-06-25 11:12:31] Request from 127.0.0.1:
+GET /echo/test HTTP/1.1
+Host: localhost:4221
+User-Agent: curl/8.9.1
+Accept: */*
+
+
+[2025-06-25 11:12:31] Request from 127.0.0.1:
+GET /echo/test HTTP/1.1
+Host: localhost:4221
+User-Agent: curl/8.9.1
+Accept: */*
+
+
+[2025-06-25 11:12:31] \u26a0\ufe0f ALERT from 127.0.0.1: Rate limit exceeded
+[2025-06-25 11:12:32] \u26a0\ufe0f ALERT from 127.0.0.1: Rate limit exceeded
+[2025-06-26 00:07:19] Request from 127.0.0.1:
+GET /echo/hello HTTP/1.1
+Host: localhost:4221
+User-Agent: curl/8.9.1
+Accept: */*
+
+
