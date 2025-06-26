@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🔐 Secure HTTP Server in Python
 
 This project is a low-level, multithreaded HTTP/1.1 server built from scratch using Python's `socket` and `ssl` modules. It supports basic HTTP functionality along with essential security features, making it a practical learning tool for network programming and secure server design.
