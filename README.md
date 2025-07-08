@@ -51,4 +51,3 @@ TLS (ssl)
 pyOpenSSL (for cert generation)
 =======
 # secure-http-server
->>>>>>> a610f9df49dd199f25924dbc827cf982eed7f37c
